@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="mailto:pavlakovic.marko@gmail.com"><img src="https://img.shields.io/badge/pavlakovic.marko@gmail.com-555555?style=for-the-badge&logo=maildotru" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://markopavlakovic.com" target="blank"><img src="https://img.shields.io/badge/website-3e5549?style=for-the-badge&logo=instatus&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/markopavlakovic" target="blank"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="https://markopavlakovic.com" target="_blank"><img src="https://img.shields.io/badge/website-3e5549?style=for-the-badge&logo=instatus&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/markopavlakovic" target="_blank"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <p></p>
-  <a href="https://github.com/MarkoPvlkvc" target="blank"><img src="https://komarev.com/ghpvc/?username=MarkoPvlkvc&style=for-the-badge&color=87ab8f" /></a>
+  <a href="https://github.com/MarkoPvlkvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=MarkoPvlkvc&style=for-the-badge&color=87ab8f" /></a>
 </div>
 
 <br><br><br>
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <br>
 
-- I am a `Student` at <a href="https://www.fer.unizg.hr/" target="blank">Faculty of Electrical Engineering and Computing - FER</a>
+- I am a `Student` at <a href="https://www.fer.unizg.hr/" target="_blank">Faculty of Electrical Engineering and Computing - FER</a>
 
 - My major is `Computer Science`
 
 - Always open for `Collaborations`, so feel free to <a href="mailto:pavlakovic.marko@gmail.com">Get in Touch</a>
 
-- `Experience` and favorite `Projects` visible on my <a href="https://markopavlakovic.com" target="blank">Website</a>
+- `Experience` and favorite `Projects` visible on my <a href="https://markopavlakovic.com" target="_blank">Website</a>
 
 <br><br><br>
 
