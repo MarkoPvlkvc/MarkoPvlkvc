@@ -13,24 +13,80 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Marko</h1>
-
-<br><br>
-
-- A passionate Frontend Developer from Croatia
-
-- 🌱 I’m currently learning... **Full Stack Development**
-
-- 📫 How to reach me... **pavlakovic.marko@gmail.com**
+![Header](https://github.com/user-attachments/assets/9e87c7e1-7aa4-4c28-a609-698a960a86ab)
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/markopavlakovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markopavlakovic" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="mailto:pavlakovic.marko@gmail.com"><img src="https://img.shields.io/badge/pavlakovic.marko@gmail.com-555555?style=for-the-badge&logo=maildotru" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://markopavlakovic.com" target="blank"><img src="https://img.shields.io/badge/website-3e5549?style=for-the-badge&logo=instatus&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/markopavlakovic" target="blank"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <p></p>
+  <a href="https://github.com/MarkoPvlkvc" target="blank"><img src="https://komarev.com/ghpvc/?username=MarkoPvlkvc&style=for-the-badge&color=87ab8f" /></a>
+</div>
+
+<br><br><br>
+
+![About](https://github.com/user-attachments/assets/85350171-1396-431d-93ea-4e483c7ff50e)
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- I am a `Student` at <a href="https://www.fer.unizg.hr/" target="blank">Faculty of Electrical Engineering and Computing - FER</a>
+
+- My major is `Computer Science`
+
+- Always open for `Collaborations`, so feel free to <a href="mailto:pavlakovic.marko@gmail.com">Get in Touch</a>
+
+- `Experience` and favorite `Projects` visible on my <a href="https://markopavlakovic.com" target="blank">Website</a>
+
+<br><br><br>
+
+![Skills   Tools](https://github.com/user-attachments/assets/0b1eec29-a176-4a57-bb91-8761a9e70e61)
+
+<br>
+
+## Programming Languages
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs&theme=dark&perline=9" />
+</div>
+
+<br>
+
+## Frontend Development
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,nuxtjs,django,tailwind&theme=dark&perline=9" />
+</div>
+
+<br>
+
+## Backend Development
+
+<div>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,nginx,nodejs,postgres,sqlite,supabase&theme=dark&perline=9" />
+</div>
+
+<br>
+
+## Programing Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes,postman&theme=dark&perline=9" />
+</div>
+
+<br>
+
+## Design Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark&perline=9" />
+</div>
+
+<br>
+
+## IDEs
+
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,neovim&theme=dark&perline=9" />
+</div>
