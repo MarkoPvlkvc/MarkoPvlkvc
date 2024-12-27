@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/user-attachments/assets/9e87c7e1-7aa4-4c28-a609-698a960a86ab)
+![header](https://github.com/user-attachments/assets/8cbe7e96-34d3-4d1e-8aa4-cac1c325cc1b)
 
 <br>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-![About](https://github.com/user-attachments/assets/85350171-1396-431d-93ea-4e483c7ff50e)
+![about](https://github.com/user-attachments/assets/bc9e6e4e-a43c-4c8b-8e93-4b7536befebb)
 
 <br>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-![Skills   Tools](https://github.com/user-attachments/assets/0b1eec29-a176-4a57-bb91-8761a9e70e61)
+![skills   tools](https://github.com/user-attachments/assets/8346985c-b950-413b-959a-e7d31ac6a934)
 
 <br>
 
