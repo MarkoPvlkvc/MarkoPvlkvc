@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - My major is `Computer Science`
 
-- Always open for `Collaborations`, so feel free to <a href="mailto:pavlakovic.marko@gmail.com">Get in Touch</a>
+- Always open for `Collaborations`, so feel free to <a href="mailto:hello@markopavlakovic.com">Get in Touch</a>
 
 - `Experience` and favorite `Projects` visible on my <a href="https://markopavlakovic.com" target="_blank">Website</a>
 
