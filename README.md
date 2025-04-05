@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="mailto:pavlakovic.marko@gmail.com"><img src="https://img.shields.io/badge/pavlakovic.marko@gmail.com-555555?style=for-the-badge&logo=maildotru" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hello@markopavlakovic.com"><img src="https://img.shields.io/badge/hello@markopavlakovic.com-555555?style=for-the-badge&logo=maildotru" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://markopavlakovic.com" target="_blank"><img src="https://img.shields.io/badge/website-3e5549?style=for-the-badge&logo=instatus&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/markopavlakovic" target="_blank"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <p></p>
